@@ -3,6 +3,10 @@ Primera entrega programación orientada a objetos, programa que dice el tamaño 
 
 
 
+
+
+
+
 using System;
 
 using System.Collections.Generic;
