@@ -4,20 +4,34 @@ Primera entrega programación orientada a objetos, programa que dice el tamaño 
 
 
 using System;
+
 using System.Collections.Generic;
+
 using System.Linq;
+
 using System.Text;
+
 using System.Threading.Tasks;
 
+
 namespace Entrega1
+
 {
+
     class Program
+
     {
+
         static void Main(string[] args)
+
         {
+
             Console.WriteLine("Porfavor introduzca el tipo de dato del que quiera informacion");
+
             Console.WriteLine("");
+
             Console.WriteLine("utilice letras minusculas unicamente");
+
             string dato = Console.ReadLine();
 
 
